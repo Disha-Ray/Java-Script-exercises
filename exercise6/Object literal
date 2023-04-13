@@ -1,0 +1,13 @@
+// key  -> string
+// key  -> symbol
+const person = {
+  firstName : "Disha",
+  age : 22,
+  1 : "one
+  }
+  console.log(person.firstName);
+  console.log(person["firstName"]);
+  
+  // key 1 is a string 
+  // key is always a string
+  // and can also be a symbol
