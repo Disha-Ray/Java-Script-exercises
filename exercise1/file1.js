@@ -1,6 +1,8 @@
 "use strict";
 // we cannot declare variables without var when there is use strict
 console.log("hello World!!");
+console.log('Disha Ray');
+// " " and ' ' works for string
 
 // Creating variables in Js
 
